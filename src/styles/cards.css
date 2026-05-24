@@ -1,0 +1,14 @@
+.event-card {
+  background: #112240;
+  padding: 30px;
+  border-radius: 20px;
+  transition: 0.3s;
+}
+
+.event-card:hover {
+  transform: translateY(-10px);
+}
+
+.event-card h2 {
+  margin-bottom: 15px;
+}
