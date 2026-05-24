@@ -1,45 +1,45 @@
-# SARC Web Coordinator Assignment
+# Django + React Event Portal
 
-This repository contains my submissions for the SARC Web Coordinator Assignment.
+A dynamic event management portal developed using Django backend and React frontend for the SARC Web Coordinator Assignment.
 
 ---
 
-# Question 1 — Frontend Website
+## Features
 
-A visually appealing React.js frontend website with:
-- Responsive design
-- Creative UI
-- Reusable components
-- Modern CSS styling
-- Smooth animations
+- Dynamic event management
+- Admin dashboard using Django Admin
+- REST API integration
+- Responsive modern UI
+- Real-time event rendering on frontend
+- Interactive event cards
+- Smooth animations and modern styling
 
-Tech Used:
+---
+
+## Tech Stack
+
+### Frontend
 - React.js
 - CSS
-- JavaScript
+- Axios
 
----
-
-# Question 2 — Django + React Event Portal
-
-A dynamic event management portal built using Django backend and React frontend.
-
-Features:
-- Admin event management
-- Dynamic API integration
-- Responsive UI
-- React frontend
-- Django REST Framework backend
-
-Tech Used:
-- React.js
+### Backend
 - Django
 - Django REST Framework
-- Axios
-- CSS
+- SQLite
 
 ---
 
-# Functionality
+## Functionality
 
-Admins can add events from Django backend and they automatically appear on the React frontend dynamically using REST APIs.
+Admins can add events directly from the Django Admin Panel, and the events automatically appear on the React frontend through REST APIs.
+
+---
+
+## Project Structure
+
+```bash
+Question-2-Django-React
+│
+├── backend
+└── frontend
