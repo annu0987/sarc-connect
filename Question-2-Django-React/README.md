@@ -1,16 +1,45 @@
-# React + Vite
+# SARC Web Coordinator Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains my submissions for the SARC Web Coordinator Assignment.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+# Question 1 — Frontend Website
 
-## React Compiler
+A visually appealing React.js frontend website with:
+- Responsive design
+- Creative UI
+- Reusable components
+- Modern CSS styling
+- Smooth animations
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Tech Used:
+- React.js
+- CSS
+- JavaScript
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Question 2 — Django + React Event Portal
+
+A dynamic event management portal built using Django backend and React frontend.
+
+Features:
+- Admin event management
+- Dynamic API integration
+- Responsive UI
+- React frontend
+- Django REST Framework backend
+
+Tech Used:
+- React.js
+- Django
+- Django REST Framework
+- Axios
+- CSS
+
+---
+
+# Functionality
+
+Admins can add events from Django backend and they automatically appear on the React frontend dynamically using REST APIs.
